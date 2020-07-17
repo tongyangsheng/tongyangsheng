@@ -8,6 +8,8 @@ Thanks for visiting my profile page.
 
 If you're interested about my informations, here are something you may want to know! 😉
 
-- 🏢 I’m currently working at [cnStrong](http://www.cnstrong.cn) in Hangzhou, China.
+- 🏢 I’m currently working at [cnStrong](http://www.cnstrong.cn) as a Flutter Engineer in Hangzhou, China.
 
 - 🌱 I’m currently learning **Flutter**, **Go**, Swift.
+
+- 🥤My favorite drink is my username-a Heytea milk tea.
