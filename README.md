@@ -12,4 +12,4 @@
 
 - 🤝 I'm a member for some organizations, such as [OpenFlutter](https://github.com/OpenFlutter).
 
-- 🥤My favorite drink is my username-a Heytea milk tea.
+- 🥤My favorite drink is my username —— a Heytea milk tea.
