@@ -12,4 +12,6 @@ If you're interested about my informations, here are something you may want to k
 
 - 🌱 I’m currently learning **Flutter**, **Go**, Swift.
 
+- 🤝 I'm a member for some organizations, such as [OpenFlutter](https://github.com/OpenFlutter).
+
 - 🥤My favorite drink is my username-a Heytea milk tea.
