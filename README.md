@@ -6,7 +6,7 @@
 
 - Thanks for visiting my profile page.If you're interested about my informations, here are something you may want to know! 😉
 
-- 🏢 I’m currently working at [Alibaba Group](https://www.alibabagroup.com/en/global/home) as a Flutter Engineer in Hangzhou, China.
+- 🏢 I’m currently working at [Alibaba Group](https://www.alibabagroup.com/en/global/home) as a Wireless Development Engineer in Hangzhou, China.
 
 - 🌱 I’m currently learning **Flutter**, **Go**, Swift.
 
